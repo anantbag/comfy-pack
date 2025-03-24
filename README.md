@@ -194,6 +194,7 @@ This project is under active development. Currently we are working on:
 - Docker support
 - Local `.cpack` file management with version control
 - Enhanced service capabilities
+- Enhanced docker support
 
 ## Community
 
